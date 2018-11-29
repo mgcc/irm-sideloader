@@ -22,4 +22,4 @@ require('./models/Insecticide');
 
 const parser = require('./parser');
 
-parser.ai();
+parser.insecticide();

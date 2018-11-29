@@ -1,4 +1,4 @@
-name,activeIngredient,concentration,formulationType,min,max,units
+name,activeIngredient,concentration,formulationType,min,max,unit
 Agri-mek 1.8 EC,Abamectin,18 g/L,EC,250,500,mL
 Orthene 75 SP,Acephate,750 g/Kg,SP,187.5,250,g
 Black Hawk 40 SP,Acephate,400 g/Kg,SP,187.5,250,g
@@ -508,3 +508,342 @@ Embrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
 Bug+ 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
 Sharphil Lufenuron 5% EC,Lufenuron,50 g/L,EC,125,187.5,mL
 Gemtrak 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Rubato 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Super 250 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Mirador 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Growztar 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Rubato 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Aztrostar 250 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Sharphil Azoxystrobin 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Zoxy 250 EC,Azoxystrobin,250 g/L,SC,120,160,mL
+Starlord 250 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Amistar 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Amaze 250 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Strobe 250 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Zagrobin 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Sharphil Azoxystrobin 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Rezult 25 SC,Azoxystrobin,250 g/L,SC,120,160,mL
+Azogro 250 SC,Azoxystrobin+Tebuconazole,250 g/L,SC,120,160,mL
+Custodia 320 SC,Azoxystrobin,320 g/L,SC,-,-,mL
+Serenade SC,Bacillus Amyloliquefaciens QST 713,13.7 g/L,SC,800,1200,mL
+Vaskeg 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Agchem Benomyl,Benomyl,500 g/Kg,WP,125,250,g
+Agri Benomyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Benolate 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Agway Benomyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Benomax 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Albaguard,Benomyl,500 g/Kg,WP,125,250,g
+Cat Benomyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Hyper 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Shineglo 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Dewpoint 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Agway 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Alamid 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Zerin 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Bigben 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Fundazol 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+ICTC Benomyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Vital 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Ben-On-Time,Benomyl,500 g/Kg,WP,125,250,g
+Beacon 5 WP,Benomyl,500 g/Kg,WP,125,250,g
+Porter,Benomyl,500 g/Kg,WP,125,250,g
+Benroemyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Benowell 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Clutch 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Dragon Benomyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Sure Win 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Texamyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Agromyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Benlaki 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Fungufree Plus,Benomyl,500 g/Kg,WP,125,250,g
+Benzyl 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Comply 50 WP,Benomyl,500 g/Kg,WP,125,250,g
+Captan 50 WP,Captan,500 g/Kg,WP,500,1000,g
+Captan 50 WP,Captan,500 g/Kg,WP,500,1000,g
+Captan 50 WP,Captan,500 g/Kg,WP,500,1000,g
+Clearazim 50 WP,Carbendazim,500 g/Kg,WP,125,250,g
+Agri Carbendazim 50 WP,Carbendazim,500 g/Kg,DF,125,250,g
+Zimmer 500 SC,Carbendazim,500 g/L,SC,125,250,mL
+Multizim 500 SC,Carbendazim,500 g/L,SC,125,250,mL
+Goldazim 5 SC,Carbendazim,500 g/L,SC,125,250,mL
+Benplus 500 SC,Carbendazim,500 g/L,SC,125,250,mL
+Sundazim 50 WP,Carbendazim,500 g/Kg,WP,125,250,g
+Superdazim,Carbendazim,500 g/L,SC,125,250,mL
+Systema 50 SC,Carbendazim,500 g/L,SC,125,250,mL
+Radizim 50 WP,Carbendazim,500 g/Kg,WP,125,250,g
+Benplus 500 SC,Carbendazim,500 g/L,SC,125,250,mL
+Avert 50 WP,Carbendazim,500g/kg,WP,125,250,g
+Carbensal 50 SC,Carbendazim,500 g/L,SC,125,250,mL
+Biostin 500 SC,Carbendazim,500 g/L,SC,125,250,mL
+Ultrazim,Carbendazim,500 g/L,SC,125,250,mL
+Tantor 500 SC,Carbendazim + Tebuconazole,125 + 125 g/L,SC,200,300,mL
+Domark Pro,Carbendazim + Tebuconazole,125 + 125 g/L,SC,544,640,mL
+Tantor 500 SC,Carbendazim + Tebuconazole,125 + 125 g/L,SC,200,300,mL
+Tantan 250 SC,Carbendazim + Tebuconazole,125 + 125 g/L,SC,200,300,mL
+Dantop 16 WSG,Chlothianidin,160 g/Kg,WSG,10,15,g
+Dantotsu 16 WSG,Chlothianidin,160 g/Kg,WSG,10,15,g
+Simba 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Yoda 500 SC,Chlorothalonil,500 g/L,SC,750,106.25,mL
+Vivo 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Vivo 500 SC,Chlorothalonil,500 g/L,SC,750,106.25,mL
+Baron 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Daninil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Deacon 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Rover 500,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Greenil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Fungunil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Banko 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Vengeance 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Chlorotek 50 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Chlorotek 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Siganil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Telgar 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Syntax 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Right Trac 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Biowar 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Gardenil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Gardenil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Domino 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Daconil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Alternil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Bosisng 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Odeon 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Leadonil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Cavalry 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Hardcoat 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Strata 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Signatvre 500 SC,Chlorothalonil,500g/L,SC,750,1062.5,mL
+Oranil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Oranil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Marker 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Maxel 72 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Draco 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Lupin 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Chanil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+RAC Chlorothalonil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Valiant 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Domino 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Flex 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Texonil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Texonil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Transonil 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Transonil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Teconil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Chlothanil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Pilarich 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Pilarich 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Fungutek 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Fungutek 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Balear 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Balear 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Cleaner 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Odeon 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Strata 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Savonil 50 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Goblin 500 SC,Chlorothalonil,500 g/L,SC,750,1062.5,mL
+Shaq Onil 720 SC,Chlorothalonil,720 g/L,SC,562.5,750,mL
+Funguran-Oh,Copper Hydroxide,770 g/Kg,WP,325,750,g
+KOP-Hydroxide 770 WP,Copper Hydroxide,770 g/Kg,WP,325,750,g
+Hidrocob 77 WP,Copper Hydroxide,770 g/Kg,WP,325,750,g
+Kocide DF 2000,Copper Hydroxide,538 g/Kg,DF,250,750,g
+Hydroxide Super 77 WP,Copper Hydroxide,770 g/Kg,WP,250,750,g
+Hydromax 77 WP,Copper Hydroxide,770 g/Kg,WP,250,750,g
+Radisson Copper Hydroxide 77 WP,Copper Hydroxide,770 g/Kg,WP,250,750,g
+RAC Copper Hydroxide 77 WP,Copper Hydroxide,770 g/Kg,WP,250,750,g
+Agri Blue 58 WP,Copper Oxychloride,580 g/Kg,WP,687.5,1000,g
+Vitigran Blue 58 WP,Copper Oxychloride,580 g/Kg,SC,687.5,1000,mL
+Radisson Copper Oxychloride 50 WP,Copper Oxychloride,580 g/Kg,WP,687.5,1000,g
+Radisson Copper Oxychloride 58 WP,Copper Oxychloride,580 g/Kg,WP,687.5,1000,g
+Vital Blue 85 WP,Copper Oxychloride,850 g/Kg,WP,812.5,1250,g
+Red Shield 75 WDG,Cuprous Oxide,400 g/Kg,WDG,-,-,g
+Nordox 75 WG,Cuprous Oxide,400 g/Kg,WDG,-,-,g
+Montana 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Difenthrum 25 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Pursue 25 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Puntos 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+S-Code 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Icure 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Sigatrol 25 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Homerun 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Vanquish 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Elbow 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Divino 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Escudo 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Escort 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Visor 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Dizole 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Kevlar 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Sharphil Conazole,Difenoconazole,250 g/L,EC,-,-,mL
+Bash 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Resolute 25 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Score 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Difenthrum 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Royal 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+S-Cure 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Forex 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Miracle 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Rockie 250 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Defcon 25 EC,Difenoconazole,250 g/L,EC,-,-,mL
+Bellkute 40 WP,Iminoctadine Tris (Albesilate),400 g/Kg,WP,1250,1500,g
+Ace Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Agchem Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Agri Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Truzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Vanzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Vanzeb 75% WDG,Mancozeb,750 g/Kg,WDG,-,-,g
+Agro Techno Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Agricote MZ  80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Micron 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Canopy 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Shogun 800 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Aries Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Redeem 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Redeem 750 WDG,Mancozeb,750 g/Kg,WDG,-,-,g
+Vitablue 800,Mancozeb,800 g/Kg,WP,375,750,g
+Dithane M-45 Neotec WP,Mancozeb,800 g/Kg,WP,375,750,g
+Rainfast 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Wonder 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Savior 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Ever Mancozeb 75 DF,Mancozeb,750 g/Kg,DF,375,750,g
+Manco-Prime 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Smut 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Fullclean 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Patriot 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+GL Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+G-Zeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Mandate 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Mandate 75 WDG/DF,Mancozeb,750 g/Kg,WDG,-,-,g
+Ivazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+ICTC Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Manzate 200,Mancozeb,800 g/Kg,WP,375,750,g
+Manzate DF,Mancozeb,800 g/Kg,WP,375,750,g
+Ganazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Filzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Joepabs Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Frenzy 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Kemistar Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Bluzate 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Manager 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Granman 75 DF,Mancozeb,750 g/Kg,DF,375,750,g
+Dayten Mancozeb,Mancozeb,800 g/Kg,WP,375,750,g
+Marthseb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Mega Booster Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Highlander 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Biozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+NS Double Defense Technology Plus 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Zebazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Wakazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Parafungus 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Robin 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Radisson Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Emzeb 75 WDG,Mancozeb,750 g/Kg,WP,-,-,g
+Emzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Mancosave 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Torogi Blue,Mancozeb,800 g/Kg,WP,375,750,g
+Wallop 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Wallop 75 WDG,Mancozeb,750 g/Kg,WDG,-,-,g
+Maxicote 74 WDG,Mancozeb,750 g/Kg,WDG,-,-,g
+Tagchem Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Vondozeb Plus,Mancozeb,800 g/Kg,WP,375,750,g
+Pacazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Mancotex 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Agro Blue 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Tranzeb 75 WDG,Mancozeb,750 g/Kg,WDG,375,750,g
+Tranzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Trizeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Dithane M-45 Neotec WP,Mancozeb,800 g/Kg,WP,375,750,g
+Agrozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Penncozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Vondozeb Plus,Mancozeb,800 g/Kg,WP,375,750,g
+Pilarzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Fungufree 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Troop 80 WP,Mancozeb,800 g/L,WP,375,750,g
+Manzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Zencor Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Blocker 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Cadazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Farmfrix Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Fortuna Blue 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Excelzeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+E-Man 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Monazeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Laxon 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Zebra Blue 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Inspire 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Golden M 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Green Thum Mancozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Raincozeb 80 WP,Mancozeb,800 g/Kg,WP,375,750,g
+Ringo-L 20 SC,Metominostrobin,200 g/L,SC,100,150,mL
+Ringo-L 70 SC,Metominostrobin,700 g/L,SC,100,150,mL
+Antracol 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Primacol 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Propitex 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Agni 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Antop 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Topaz 70 WP,Propineb,700 g/Kg,WP,-,-,g
+Folicur 25 WP,Tebuconazole,250 g/L,EC,100,150,mL
+Folicur 430 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Tebucoz 430 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Orius 430 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Philagrow TBZ 43 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Sharphil Tebuconazole 430 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Silvzole 430 SC,Tebuconazole,430 g/L,SC,70,90,mL
+Nativo WG 75,Tebuconazole + Trifloxystrobin,,,80,160,g
+Galileo,Tebuconazole + Carbendazim,,,130,160,mL
+Mettle Pro,Tebuconazole + Carbendazim,,,130,160,mL
+Domark Pro,Tebuconazole + Carbendazim,,,130,160,mL
+Eminent Star,Tebuconazole + Chlorothalonil,,,-,-,mL
+Tiptop 70 WP,Thiophanate Methyl,,,62.5,125,g
+Palizade 70 WP,Thiophanate Methyl,,,62.5,125,g
+Tango 70 WP,Thiophanate Methyl,,,62.5,125,g
+Topper 70 WP,Thiophanate Methyl,,,62.5,125,g
+Miltop 70 WP,Thiophanate Methyl,,,62.5,125,g
+Leads Armor 70 WP,Thiophanate Methyl,,,62.5,125,g
+Tops 70 WP,Thiophanate Methyl,,,62.5,125,g
+Fungitox 70 WP,Thiophanate Methyl,,,62.5,125,g
+Raven 70% WP,Thiophanate Methyl,,,62.5,125,g
+Thio-Met 70 WP,Thiophanate Methyl,,,62.5,125,g
+Fungiroem 70 WP,Thiophanate Methyl,,,62.5,125,g
+Right-F 70 WP,Thiophanate Methyl,,,62.5,125,g
+Topsin-M 70 WP,Thiophanate Methyl,,,62.5,125,g
+Precur 70 WP,Thiophanate Methyl,,,62.5,125,g
+Scope 70 WP,Thiophanate Methyl,,,62.5,125,g
+Archer,Thiophanate Methyl,,,62.5,125,g
+Aslan 80 WG,Thiram,,,500,500,g
+Banguard 80 WG,Thiram,,,-,-,g
+Thiram 80 WG,Thiram,,,-,-,g
+Saprol 19 DC,Triforine,,,312.5,375,mL
+Z-10 80 WP,Zineb,,,400,600,g
+Surecrop Benomyl 50 WP,Benomyl,,,125,250,g
+Ventus 31.25 SC,Chlorothalonil + Tetraconazole,,,160,200,mL
+Chlorophil 720 SC,Chlorothalonil,,,562.5,750,mL
+Fungozeb 80 WP,Mancozeb,,,375,750,g
+Resq 720 SC,Chlorothalonil,,,562.5,750,mL
+Komander 25 SC,Azoxystrobin,,,-,-,mL
+Guardking 250 EC,Difenoconazole,,,-,-,mL
+TFC Mancozeb 80 WP,Mancozeb,,,375,750,g
+Protocol WP 70,Propineb,,,-,-,g
+Sprint 250 EC,Difenoconazole,,,-,-,mL
+Radix 720 SC,Chlorothalonil,,,562.5,750,mL
+Captiva 25 SC,Azoxystrobin,,,-,-,mL
+Permidor 25 WP,Tebuconazole,,,100,150,g
+Champion Wp,Cupric Hydroxide,,,-,-,g
+Nordox 50 WP,Cuprous Oxide,,,125,187.5,g
+ECD Mancozeb 80 WP,Mancozeb,,,375,750,g
+Evito 480 SC,Fluoxatrobin,,,15,75,mL
+Falcon 25 WP,Tebuconazole,,,100,150,g
+Karrazeb 80 WP,Mancozeb,,,375,750,g
+Akzeb 80 WP,Mancozeb,,,375,750,g
+Antracure 250 SC,Carbendazim + Tebuconazole,,,200,300,mL
+Nustar 25 SC,Azoxystrobin,,,-,-,mL
+Permidor 430 SC,Tebuconazole,,,70,90,mL
+Nexa 250 EC,Difenoconazole,,,-,-,mL
+Royalzeb 80 WP,Mancozeb,,,375,750,g
+Zimcote 500 SC,Carbendazim,,,125,250,mL
+Indofil M-45 800 WP,Mancozeb,,,375,750,g
+Ortiva Top 325 SC,Azoxystrobin + Difenoconazole,,,150,200,mL
+Omanco,Mancozeb,,,375,750,g
+Indofil 750 WDG,Mancozeb,,,375,750,g
+Blucop 77% WP,Copper Hydroxide,,,325,750,g
+Curazole 25 EC,Difenoconazole,,,-,-,mL
+Bond 25 EC,Difenoconazole,,,-,-,mL
