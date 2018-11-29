@@ -1,0 +1,72 @@
+name,moa,uses,phi,targetPests
+Abamectin,Glutamate-gated chloride channel alloseric modulator,I,-,Cecid fly
+Acephate,Acetylcholinesterase Inhibitors,I,-,"Mango Leafhopper, Tipborer"
+Acetamiprid,Nicotinic Acetylcholine Receptor Agonists,I,-,Mango Leafhopper
+Betacyfluthrin,Sodium Channel Modulators,I,-,Mango Leafhopper
+Betacypermethrin,Sodium Channel Modulators,I,-,"Mango Leafhopper, Tipborer"
+Bifenthrin,Sodium Channel Modulators,I,-,"Mango Leafhopper, Tipborer"
+BPMC,Acetylcholinesterase Inhibitors,I,-,"Mango Leafhopper, Tipborer"
+Buprofezin,Chitin Synthesis Inhibitors Type 1,I,-,Mango Leafhopper
+Carbaryl,Acetylcholinesterase Inhibitors,I,1,"Mango Leafhopper, Tipborer, Twig Borer, Fruit Fly, Mealy Bug"
+Carbosulfan,Acetylcholinesterase Inhibitors,I,-,"Cecid fly, Black Borer, Mango Leafhopper, Fruit Fly, Thrips, Scale Insects, Seed Borer"
+Cartap Hydrochloride,Nicotinic Acetylcholine Receptor Blockers,I,-,Mango Leafhopper
+Chlorpyrifos + Cypermethrin,Acetylcholinesterase Inhibitor + Sodium Channel Modulators,I,-,Mango Leafhopper
+Cypermethrin,Sodium Channel Modulators,I,7,"Mango Leafhopper, Twig Borer, Tip Borer, Fruit Fly"
+Deltamethrin,Sodium Channel Modulators,I,-,"Mango Leafhopper, Twig Borer, Tip Borer "
+Diazinon,Acetylcholinesterase Inhibitors,I,-,"Mango Leafhopper, Tip Borer"
+Dinotefuran,Nicotinic acetylcholine receptor competitive modulators,I,7,Mango Leafhopper
+Etofenprox,Sodium Channel Modulators,I,7,Mango Leafhopper
+Fenvalerate,Sodium Channel Modulators,I,-,"Mango Leafhopper, Twig Borer, Tip Borer "
+Flonicamid,Chordotonal Organ Modulators - Undefined Target Site,I,52,"Thrips, Mango Leafhopper, Tip Borer"
+Formetanate HCL,Acetylcholinesterase Inhibitors,I,7,"Thrips, Capsid Bug, Mango Leafhopper"
+Gamma-Cyhalothrin,Sodium Channel Modulators,I,-,"Mango Leafhopper, Tip Hopper,Twig Borer"
+Imidacloprid,Nicotinic acetylcholine receptor competitive modulators,I,-,Mango Leafhopper
+Imidacloprid + Beta-cyfluthrin,Nicotinic acetylcholine receptor competitive modulators+ Sodium Channel Modulators,I,-,Mango Leafhopper
+Imidacloprid + Deltamethrin,Nicotinic acetylcholine receptor competitive modulators+ Sodium Channel Modulators,I,80,"Mango Leafhopper, Tip Borer, Capsid Bug"
+Lambdacyhalothrin,Sodium Channel Modulators,I,3,Mango Leafhopper
+Lambdacyhalothrin + Thiamethoxam,Sodium Channel Modulators + Nicotinic acetylcholine receptor competitive modulators,I,3,"Mango Leafhopper, Tip Borer"
+Phenthoate,Acetylcholinesterase Inhibitors,I,14,"Mango Leafhopper, Twig Borer, Tip Borer"
+Profenofos,Acetylcholinesterase Inhibitors,I,-,Thrips
+Pymetrozine,Chordotonal TRPV channel modulators,I,-,Mango Leafhopper
+Spinosad,Nicotinic acetylcholine receptor allosteric modulators,I,-,Fruit Fly
+Thiamethoxam,Nicotinic acetylcholine receptor competitive modulators,I,-,Mango Leafhopper
+Trichlorfon,Acetylcholinesterase Inhibitors,I,-,Fruit Fly
+Thiamthoxam,Nicotinic acetylcholine receptor competitive modulators,I,-,Mango Leafhopper
+Buprofezin + MIPC,"Inhibitors of chitin biosynthesis, type 1 + Acetylcholinesterase Inhibitors",I,14,Mango Leafhopper
+Permethrin,Sodium Channel Modulators,I,-,"Mango Leafhopper, Twig Borer, Tip Borer, Fruit Fly"
+Esfenvalerate,Sodium Channel Modulators,I,3,"Mango Leafhopper, Twig Borer, Tip Borer"
+Lufenuron,"Inhibitors of chitin biosynthesis, type 0",I,-,Twig Cutter and Tip Borer
+Azoxystrobin,Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration,F,3-7,"Anthracnose, Scab, Stem-end Rot"
+Azoxystrobin+Tebuconazole,Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration + Inhibitor of C14-demethylase in sterol biosynthesis,F,3-7,"Anthracnose, Scab, Stem-end Rot"
+Bacillus Amyloliquefaciens QST 713,Microbial disrupter of pathogen cell membrane,F,0,Anthracnose
+Benomyl,Inhibitor of Beta-tubulin assembly in mitosis,F,-,"Anthracnose, Powdery Mildew"
+Captan,Inhibitor of Beta-tubulin assembly in mitosis,F,-,"Anthracnose, Scab"
+Carbendazim,Inhibitor of Beta-tubulin assembly in mitosis,F,-,Anthracnose
+Carbendazim + Tebuconazole,Inhibitor of Beta-tubulin assembly in mitosis + Inhibitor of C14-demethylase in sterol biosynthesis,F,-,Anthracnose
+Chlothianidin,Nicotinic Acetylcholine Receptor Agonists,F,-,"Anthracnose, Blossom Blight Scab"
+Chlorothalonil,Multi-site contact activity,F,7-14,"Anthracnose, Diplodia Rot"
+Copper Hydroxide,Multi-site contact activity,F,-,Anthracnose
+Copper Oxychloride,Multi-site contact activity,F,-,"Anthracnose, Sooty Mold"
+Cuprous Oxide,Multi-site contact activity,F,7,Anthracnose
+Difenoconazole,Inhibitor of C14-demethylase in sterol biosynthesis,F,-,Anthracnose
+Iminoctadine Tris (Albesilate),Multi-site contact activity,F,-,"Anthracnose, Scab, Stem-end Rot"
+Mancozeb,Multi-site contact activity,F,5,"Anthracnose, Scab"
+Metominostrobin,Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration,F,-,Anthracnose
+Propineb,Multi-site contact activity ,F,-,Anthracnose
+Tebuconazole,Inhibitor of C14-demethylase in sterol biosynthesis,F,22,"Anthracnose, Stem-end rot"
+Tebuconazole + Trifloxystrobin,Inhibitor of C14-demethylase in sterol biosynthesis + Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration ,F,30,Anthracnose
+Tebuconazole + Carbendazim,Inhibitor of C14-demethylase in sterol biosynthesis + Inhibitor of Beta-tubulin assembly in mitosis,F,-,"Anthracnose, Stem-end rot"
+Tebuconazole + Chlorothalonil,Inhibitor of C14-demethylase in sterol biosynthesis + Multi-site contact activity ,F,-,Anthracnose
+Thiophanate Methyl,Inhibitor of Beta-tubulin assembly in mitosis,F,-,Anthracnose
+Thiram,Multi-site contact activity ,F,-,"Anthracnose, Scab"
+Triforine,Inhibitor of C14-demethylase in sterol biosynthesis,F,-,"Anthracnose, Stem-end rot"
+Zineb,Multi-site contact activity ,F,-,Anthracnose
+Chlorothalonil + Tetraconazole,Multi-site contact activity + Inhibitor of C14-demethylase in sterol biosynthesis,F,5,"Anthracnose, Scab"
+Cupric Hydroxide,Multi-site contact activity ,F,7,Anthracnose
+Fluoxatrobin,Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration,F,14,"Anthracnose, Stem-end rot"
+Azoxystrobin + Difenoconazole,Inhibitor of Complex III: cytochrome bc 1 at Qo site in respiration + Inhibitor of C14-demethylase in sterol biosynthesis,F,14,"Anthracnose, Scab, Stem-end rot"
+C14C18Alkyl Carboxylic Acid Methyl Ester,,Other,-,"Mango Leafhopper, Scale Insects"
+Ethephon,,Other,7,Mango Ripening
+Paclobutrazol,,Other,-,-
+Trisiloxane Alkoxylate + Allyl Ethoxylate,,Other,-,"Mango Leafhopper, Capsid Bug, Cecid Fly"
+Etephon,,Other,7,-

@@ -1,0 +1,15 @@
+{
+  "name": "sideloader",
+  "version": "1.0.0",
+  "description": "Sideloads CSV data to IRM database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MGCC",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "mongoose": "^5.3.14"
+  }
+}

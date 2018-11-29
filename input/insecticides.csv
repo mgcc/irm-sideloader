@@ -1,0 +1,510 @@
+name,activeIngredient,concentration,formulationType,min,max,units
+Agri-mek 1.8 EC,Abamectin,18 g/L,EC,250,500,mL
+Orthene 75 SP,Acephate,750 g/Kg,SP,187.5,250,g
+Black Hawk 40 SP,Acephate,400 g/Kg,SP,187.5,250,g
+Monarch Acephate 50 SP,Acephate,500 g/Kg,SP,187.5,250,g
+Radisson Acephate,Acephate,750 g/Kg,SP,187.5,250,g
+Orthene 75 SP,Acephate,750 g/Kg,SP,187.5,250,g
+Compete 75 SP,Acephate,750 g/Kg,SP,187.5,250,g
+Milan 3 EC,Acetamiprid,30 g/L,EC,187.5,250,mL
+Mospilan 3 EC,Acetamiprid,30 g/Kg,EC,187.5,250,mL
+Agchem Acetamiprid 3 EC,Acetamiprid,30 g/Kg,EC,187.5,250,mL
+Bulldock 025 EC,Betacyfluthrin,25 g/L,EC,-,-,-
+Chix 2.5 EC,Betacypermethrin,25 g/L,EC,400,600,mL
+Beta 2.5 EC,Betacypermethrin,26 g/L,EC,400,600,mL
+Talstar 8 SC,Bifenthrin,80 g/L,SC,75,100,mL
+Convoy 50 EC,BPMC,500 g/L,EC,375,437.5,mL
+Hopcide 50 EC,BPMC,500 g/L,EC,375,437.5,mL
+Carvil 50 EC,BPMC,500 g/L,EC,375,437.5,mL
+Diacarb 50 EC,BPMC,500 g/L,EC,375,437.5,mL
+Majesty 50 EC,BPMC,500 g/L,EC,375,437.5,mL
+Ovation 10 WP,Buprofezin,100 g/Kg,WP,1,2,sachet
+Professor 10 WP,Buprofezin,100 g/Kg,WP,1,2,sachet
+Acclaim 10 WP,Buprofezin,100 g/Kg,WP,1,2,sachet
+Applaud 10 WP,Buprofezin,100 g/Kg,WP,1,2,sachet
+Applaud 25 SC,Buprofezin,250 g/L,SC,60,80,mL
+Hopover 250 SC,Buprofezin,250 g/L,SC,60,80,mL
+Hoppex,Buprofezin,100 g/Kg,WP,1,2,sachet
+Accurate 25 SC,Buprofezin,250 g/L,WP,60,80,sachet
+Bupro 25 SC,Buprofezin,250 g/L,SC,60,80,mL
+Cube 25 SC,Buprofezin,250 g/L,SC,60,80,mL
+Voltage 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Victory 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Paladin 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Carbazeal 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Phantom 85WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Samson 85 S,Carbaryl,850 g/Kg,WP,500,1000,g
+Sevin 50 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Shoot 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Chopper 85 S,Carbaryl,850 g/Kg,WP,500,1000,g
+Kwegger 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Macro 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Savyl 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Superseven 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Seven Eleven 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Ganadrin 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Baryl 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Si Ben 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Fortein 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Bendoryl 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+RAC Carbaryl 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Quadro 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+United Agro Carbaryl,Carbaryl,850 g/Kg,WP,500,1000,g
+Zacarb 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Big Seven 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Resbak 85 WP,Carbaryl,850 g/Kg,WP,500,1000,g
+Benefit 20 SC,Carbosulfan,200 g/L,SC,600,400,mL
+Marshal 200 SC,Carbosulfan,200 g/L,SC,600,400,mL
+Platinium 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Ace Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Agrisolutions Leafgard Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Thunder 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Hinder 50 SP,Cartap Hydrochloride,400 g/Kg,SP,187.5,250,g
+Agri Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Grantop 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Espyder 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Agway Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Aktap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Ingram 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Altap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Sparrow ,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Kordan 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Rampage 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Padim 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Woktap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Boltrin 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Voltz 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Over-all 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Kraptap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Cartap Gold 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+All Out 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Tapdan 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Blutap 50 S,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Full Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Stellar 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Aldab 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+GL Cartap,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Mantra 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Grandia Cartap 50 Sp,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Drilltop 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Kaboom 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Super Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Padan 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Gadan 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Grappler 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Contract 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Carbine 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Patrak 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Cartap ES,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+X-Cartap Blue,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Tsunami 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Knight 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Optimus 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Royal Cartap,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Paspas,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+OCC Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Farmfix Cartap,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Slay 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Profarm Cartap,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Nutap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Tepok 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Tsada 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Roemtap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Tap Out 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Blizzard 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Padan 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Padan 4G,Cartap Hydrochloride,40 g/Kg,SP,187.5,250,g
+Dragon Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Denominator 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Texicon Cartap,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Pacman Cartap,Cartap Hydrochloride,-,SP,187.5,250,g
+TFC Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Trac 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Triband,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Agrotap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Flame 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Cardinal 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Top Rank 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Spur 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+VTL Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Megatap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Zencor Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Top Load 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Top One 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Trigun 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Sun Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Wartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Goldentap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
+Firebolt EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Attack Plus,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Blink EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Nurelle D,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Nurelle,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Cychlor EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Tandem EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Cartel 27.5 EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Bombard 275 EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Nurelle,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Zapul 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Spraymate 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Supra 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Amda,Cypermethrin,50 g/L,EC,125,375,mL
+Wizard 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Agri Cypermethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Torpedo 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Akmethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Magnum 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Attack 5R,Cypermethrin,50 g/L,EC,125,375,mL
+Korbush 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Level Up 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Grabb 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Sherpa 050 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Zoom 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Smash 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Actor 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Payback 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Weapon 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cat Cypermethrin,Cypermethrin,50 g/L,EC,125,375,mL
+Flash 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Knock Out 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Discovery,Cypermethrin,50 g/L,EC,125,375,mL
+Model 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+EJA Cypermethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Big Shot 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Kingstar 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cyper Prime 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Omerta 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Arrivo 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Panther 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Global 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Bendita 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Bush 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Lyper 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Guardian 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Destroy 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Capture 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+iMethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Lakas 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cyclone 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+X-Press Methrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Arrow 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Kingpin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cipo 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Pinnacle 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Bugbuster 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Capetan 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Supersmak 50 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Pakat 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cyper Ultra 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Blaze 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Killer 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Tirador 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Sabidong 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cybest 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Nexus 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Pacto 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Palmetrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Farmfix Cypermethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Super-M EC 50,Cypermethrin,50 g/L,EC,125,375,mL
+Bushwhack,Cypermethrin,50 g/L,EC,125,375,mL
+Death Bug 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Profarm Cyper 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Trinorth 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Tipid 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+RAC Cypermethrin,Cypermethrin,50 g/L,EC,125,375,mL
+Petrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Helmet 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cypersun 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Sharphil 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Eagle Plus,Cypermethrin,50 g/L,EC,125,375,mL
+Deluxe 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cymbush 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Tag .357 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Rocket 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+TFC Cyper 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Libra 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Deal 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cypermethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cyrux 5 EC,Cypermethrin,5 g/L,EC,125,375,mL
+Assassin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Laban 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Vasthrin,Cypermethrin,50 g/L,EC,125,375,mL
+Conqueror 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cypex 50 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Punis X 5.5 EC,Cypermethrin,55 g/L,EC,187.5,500,mL
+Armethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Amihan 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Basisthrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Kingmethrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Panlaban 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Ader 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Wizard 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Sikat 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Defeat 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Global 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Delta 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Squadron 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Decis 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Whizz 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Deltaking 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Ryder 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Spartan 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+2fast 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Delta-prime 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Superquick 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Decimate 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Deltaguard 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Stunner 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Radisson Deltamethrin 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Delta-S 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Sharphil Delta 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Scout 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Agro Deltamethrin,Deltamethrin,25 g/L,EC,93.75,125,mL
+Desistin 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Deltamet 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Deltup 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Suppress 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Warden 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Sultan 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Patrol 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Deltamax 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+Drexel Diazinon 600 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Diazol 60 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Monarch Diazinon 600 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Parafest-D 400 EC,Diazinon,400 g/L,EC,500,750,mL
+Parapest D 600 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Sharphil Diaz,Diazinon,600 g/L,EC,312.5,500,mL
+Diazinon 60 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Neocidin 600 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Oshin 20 SG,Dinotefuran,200 g/Kg,SG,12.5,25,mL
+Starkle 20 SG,Dinotefuran,200 g/Kg,SG,12.5,25,mL
+Cadet 2.5 EC,Etofenprox,25 g/L,EC,500,1000,mL
+Trebon Excel 10 EC,Etofenprox,100 g/L,EC,125,250,mL
+Dash 30 EC,Etofenprox,300 g/L,EC,40,80,mL
+Polido 2.5 EC,Etofenprox,25 g/L,EC,500,1000,mL
+Trebon 30 EC,Etofenprox,300 g/L,EC,40,80,mL
+Trebon 10 EC,Etofenprox,100 g/L,EC,125,250,mL
+Sumicidin 3 EC,Fenvalerate,30 g/L,EC,625,1000,mL
+Leadmark 3 EC,Fenvalerate,30 g/L,EC,625,1000,mL
+Fenracidin 30 EC,Fenvalerate,30 g/L,EC,625,1000,mL
+Kilpes 3 EC,Fenvalerate,30 g/L,EC,625,1000,mL
+Mainman 50 WG,Flonicamid,500 g/Kg,WG,625,1000,g
+Dicarzol 20 SP,Formetanate HCL,200 g/Kg,SP,500,1000,g
+Thripshield 20 SP,Formetanate HCL,200 g/Kg,SP,500,1000,g
+Pro-axis 15 CS,Gamma-Cyhalothrin,15 g/L,CS,500,625,mL
+Barricade 15 CS,Gamma-Cyhalothrin,15 g/L,CS,500,625,mL
+Confidor SL 200,Imidacloprid,200 g/L,SL,40,50,mL
+Radisson Imidacloprid 100 SL,Imidacloprid,100 g/L,SL,40,50,mL
+Nudor 20 SL,Imidacloprid,200 g/L,SL,40,50,mL
+Solomon 300 OD,Imidacloprid + Beta-cyfluthrin,210 + 90 g/L,OD,40,80,mL
+Admire Max 75 WG,Imidacloprid + Deltamethrin,500 g + 250 g/Kg,WG,20,40,g
+Zulpac Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Tyrant 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Flare 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Agrisolutions Polaris Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Sumo 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Philmaster 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Agri Labdacyhalothrin 2.5 E,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+RPG 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Spectra 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Deliver 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Akchlothrin 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Bida 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Legion 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Torch 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Lambada 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Bugseek 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Terminator 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Braco 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Excalibur 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Kriss 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Banker 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Alto 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Kara 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+D-destroyer 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Eja Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Cyhatex 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Sword,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Tesla 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Raptor 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Lethalin 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Quest 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Golden Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Grandia Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Autokill 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Dagger 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+ICTC Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Inferno 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Alert 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Terrible 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Arnis 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Chaku 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Natarake 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Super Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Gold Crops 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Dynamo 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Arsenal 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+NS Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+One Click 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Octane 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Bigboss 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Lambdex 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Descarte 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Box Out 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Controller 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+RAC Lambdacyhalothrin 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Cha Cha 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Roembda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Sun Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Sharphil Lambdacyhalothrin 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Wave 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Jolina 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Karate 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+King Arthur 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Master 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Jakpot 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Ariba 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+TFC-Lambda 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Cylo 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Ram 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Y-Kurat 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Pulsar 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Sugod 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Slam 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Pest-Out 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Celerity 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Brusko 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Clash 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Harden 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Era 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Mystica 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Latoz 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Warlock 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Wardog 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Butcher 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Kasangga 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Alika 247 ZC,Lambdacyhalothrin + Thiamethoxam,106 + 141 g/L,ZC,40,60,mL
+Atemi 247 SC ,Lambdacyhalothrin + Thiamethoxam,106 + 141 g/L,SC,40,60,mL
+Colam 247 ZC,Lambdacyhalothrin + Thiamethoxam,106 + 141 g/L,ZC,40,60,mL
+Phento-M 5 EC,Phenthoate,500 g/L,EC,250,625,mL
+Pennant 500 EC,Phenthoate,500 g/L,EC,250,625,mL
+Phenom,Phenthoate,500 g/L,EC,250,625,mL
+Peasant 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Pendant 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Premier 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Penhopp 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Phendal 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Salvo 50 EC,Phenthoate,500 g/L,EC,250,625,mL
+Vader 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Ultimate 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Agri Profenofos 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Scanner 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Xylocron 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Ultracron 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Taurus 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Havoc 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Seleck 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Barak 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Prudent 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Dazzle 500 EC,Profenofos,500 g/L,EC,125,250,mL
+M-Spinner 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Gemekron 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Profit 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Maggeddon 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Kila 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Cordon  500 EC,Profenofos,500 g/L,EC,125,250,mL
+Kabron 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Super Insecticide 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Proven 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Trounce 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Profen 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Profenosmarth 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Jetstopper 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Kilter 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Atropos 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Masco 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Elektron 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Profecron 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Kemicron 50 EC,Profenofos,500 g/Kg,EC,125,250,mL
+Protexwell 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Jalem 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Selecron 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Ultima 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Ventures 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Transofos 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Kilabot 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Primaphos 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Peno-Plus 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Elak 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Guston 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Ajanta 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Beater 500 EC,Profenofos,500 g/L,EC,125,250,mL
+Delete 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Chess 50 WG,Pymetrozine,500 g/Kg,WG,80,0,g
+Agchem Pymetrozine 50 WG,Pymetrozine,500 g/Kg,WG,80,80,g
+Grandmaster 500 WDG,Pymetrozine,500 g/Kg,WDG,80,80,g
+Umbre 50 WG,Pymetrozine,500 g/Kg,WG,80,80,g
+Armado 50 WG,Pymetrozine,500 g/Kg,WG,80,80,g
+Chosen 50 WG,Pymetrozine,500 g/Kg,WG,80,80,g
+GF-120 Naturalite Fruitfly Bait,Spinosad,0.2 g/L,SC,-,-,mL
+Static,Spinosad,0.2 g/L,SC,-,-,mL
+Tayamet 25 WG,Thiamethoxam,500 g/Kg,WP,-,-,g
+Actara 25 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Agchem Thiamethoxam 25 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Awesome 250 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Frisk 25 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Rockot 25 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Valiente 25 WG,Thiamethoxam,500 g/Kg,WG,-,-,g
+Dipterex 95 SP,Trichlorfon,950g/ Kg,SP,375,625,g
+Tyrant 2.5 EC,Lambdacyhalothrin,25 g /L,EC,93.75,187.5,mL
+Blackwidow 50 Ec,Profenofos,500 g/L,EC,125,250,mL
+Buprozen 25 SC,Buprofezin,250 g/L,SC,60,80,mL
+Klarex 3 EC,Acetamiprid,30 g/L,EC,187.5,250,mL
+Exelon 25 WG,Thiamthoxam,250 g/Kg,WG,-,-,g
+Primex 25 WP,Buprofezin + MIPC,50 + 200 g/Kg,WP,375,500,g
+Kazam 50 WG,Pymetrozine,500 g/Kg,WG,-,-,g
+Pymet 50 WG,Pymetrozine,500 g/Kg,WG,-,-,g
+Top Guard 50 WG,Pymetrozine,500 g/Kg,WG,-,-,g
+Vita 2.5 EC,Deltamethrin,25 g/L,EC,93.75,125,mL
+CIA 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Avenger 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Cypro 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cavalier 2.5 EC,Deltamethrin,25 g/L,EC,100,125,mL
+Dedpul 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Artemis 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Cronic 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Trust 50 WG,Pymetrozine,500 g/Kg,WG,-,-,-
+Sharphil Prof 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Trugold 60 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Difan 20 SG,Dinotefuran,200 g/Kg,SG,125,250,g
+Primera Leader 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Emperor 27.5 EC,Chlorpyrifos + Cypermethrin,250 + 25 g/L,EC,312.5,500,mL
+Sting 50 WG,Pymetrozine,500 g/Kg,WDG,-,-,g
+Lancer 75 SP,Acephate,750 g/Kg,SP,187.5,250,g
+Corsair 5 EC,Permethrin,50 g/L,EC,125,375,mL
+Legend 2.5 EC,Esfenvalerate,25 g/L,EC,187.5,250,mL
+Sumi- Alpha 2.5 EC,Esfenvalerate,25 g/L,EC,187.5,250,mL
+Procin 25 WP,Buprofezin + MIPC,50 + 200  g/Kg,WP,375,500,g
+Pytox 10 EC,Permethrin,100 g/L,EC,125,375,mL
+Trefic 20 WP,Etofenprox,200 g/Kg,WP,125,125,mL
+ECD Pymetrozine 50 WG,Pymetrozine,500 g/Kg,WG,-,-,mL
+ECD Cartap 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,mL
+Fusion ZC,Lambdacyhalothrin + Thiamethoxam,-,ZC,40,60,mL
+Lauda 250 SC,Buprofezin,250 g/L,SC,60,80,mL
+Kayazinon 60 EC,Diazinon,600 g/L,EC,312.5,500,mL
+Pyrozine 50 WG,Pymetrozine,500 g/Kg,WG,-,-,g
+Rush 4.5 EC,Betacypermethrin,45 g/L,EC,266.25,400,mL
+Aguila 247 ZC,Lambdacyhalothrin + Thiamethoxam,106 + 141 g/L,ZC,40,60,mL
+Agile 25 WG,Thiamethoxam,250 g/Kg,WG,-,-,g
+Voltron 50 EC,Profenofos,500 g/L,EC,125,250,mL
+Comrade 50 WG,Pymetrozine,500 g/Kg,WG,-,-,g
+Vendetta 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Ortain 40 SL,Acephate,400 g/L,SL,187.5,250,mL
+Controller 2.5 EC,Lambdacyhalothrin,25 g/L,EC,93.75,187.5,mL
+Trinorth 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Punisher 40 SL,Acephate,400 g/L,SL,187.5,250,mL
+Accurate 10 WP,Buprofezin,100 g/Kg,WP,-,-,g
+Embrin 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Bug+ 5 EC,Cypermethrin,50 g/L,EC,125,375,mL
+Sharphil Lufenuron 5% EC,Lufenuron,50 g/L,EC,125,187.5,mL
+Gemtrak 50 SP,Cartap Hydrochloride,500 g/Kg,SP,187.5,250,g
